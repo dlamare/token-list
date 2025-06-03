@@ -1,0 +1,12 @@
+{
+  "chainId": 101,
+  "address": "BV8WoHydNQHGTQqvhdJcT54TRrZtBjofxpssehCMPJ3V",
+  "symbol": "SMT",
+  "name": "SMTcoin",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/dlamare/token-list/main/assets/mainnet/BV8WoHydNQHGTQqvhdJcT54TRrZtBjofxpssehCMPJ3V/logo.png",
+  "tags": ["community-token"],
+  "extensions": {
+    "telegram": "https://t.me/pinetworkun1"
+  }
+}
